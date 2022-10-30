@@ -8,7 +8,7 @@ environment (e.g. Python Notebook, CLI).
 
 ### Install
 
-```
+```bash
 pip install cognito_client
 ```
 
